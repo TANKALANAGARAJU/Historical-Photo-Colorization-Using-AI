@@ -38,6 +38,6 @@ Historical-Photo-Colorization-Using-AI/
 └── README.md
 
 🧑‍💻 Author
-Tankala Nagaraj
-📧 Email: tankalakrishna84@gmail.com
+-Tankala Nagaraju
+-📧 Email: tankalakrishna84@gmail.com
 
