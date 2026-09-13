@@ -28,17 +28,29 @@ This project focuses on colorizing black and white historical images using deep 
 
 Historical-Photo-Colorization-Using-AI/
 │
+
 ├── model/
+
 │ ├── colorization_deploy_v2.prototxt
+
 │ ├── colorization_release_v2.caffemodel
+
 │ └── pts_in_hull.npy
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
+
+---
 
 🧑‍💻 Author
 Tankala Nagaraju
+
+Data And ML Engineer
 
 📧 Email: tankalakrishna84@gmail.com
 
