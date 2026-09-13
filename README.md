@@ -23,6 +23,18 @@ This project focuses on colorizing black and white historical images using deep 
 - Streamlit-based web interface for ease of use
 
 ---
+## Result
+
+#Input
+
+<img width="370" height="242" alt="bw" src="https://github.com/user-attachments/assets/d63d02c8-261e-43df-a248-cee219791a81" />
+
+#output
+
+<img width="370" height="242" alt="colorized_image" src="https://github.com/user-attachments/assets/121885ae-a9e9-4b04-b2f9-37be0089878f" />
+
+
+---
 
 ## 📂 Project Structure
 
